@@ -198,9 +198,9 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 **❅────✦ ᴡᴇʟᴄᴏᴍᴇ ✦────❅**
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰
-**➻ ɴᴀᴍᴇ »** {user.mention}
-**➻ ɪᴅ »** `{user.id}`
-**➻ ᴜ_ɴᴀᴍᴇ »** @{user.username}
+**➻ isin »** {user.mention}
+**➻ id »** `{user.id}`
+**➻ kullanıcı adı »** @{user.username}
 **➻ ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs »** {count}
 ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
